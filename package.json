@@ -1,0 +1,22 @@
+{
+  "name": "redux_akcje_zad_19.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrzemyslawWrobel/Redux_Akcje_Zad_19.3.git"
+  },
+  "author": "PW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrzemyslawWrobel/Redux_Akcje_Zad_19.3/issues"
+  },
+  "homepage": "https://github.com/PrzemyslawWrobel/Redux_Akcje_Zad_19.3#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
